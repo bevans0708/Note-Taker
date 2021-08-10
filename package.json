@@ -16,5 +16,8 @@
    "bugs": {
       "url": "https://github.com/bevans0708/Note-Taker/issues"
    },
-   "homepage": "https://github.com/bevans0708/Note-Taker#readme"
+   "homepage": "https://github.com/bevans0708/Note-Taker#readme",
+   "dependencies": {
+      "express": "^4.17.1"
+   }
 }
